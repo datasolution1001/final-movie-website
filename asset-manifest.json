@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/final-movie-website/static/css/main.334bdeb1.css",
-    "main.js": "/final-movie-website/static/js/main.11514500.js",
+    "main.js": "/final-movie-website/static/js/main.c10a6d66.js",
     "index.html": "/final-movie-website/index.html",
     "static/media/search.svg": "/final-movie-website/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.334bdeb1.css.map": "/final-movie-website/static/css/main.334bdeb1.css.map",
-    "main.11514500.js.map": "/final-movie-website/static/js/main.11514500.js.map"
+    "main.c10a6d66.js.map": "/final-movie-website/static/js/main.c10a6d66.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.11514500.js"
+    "static/js/main.c10a6d66.js"
   ]
 }
